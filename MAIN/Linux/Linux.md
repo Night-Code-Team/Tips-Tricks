@@ -1,0 +1,6 @@
+[[Postgres Linux]]
+[[Python install on Linux]]
+[[Wayland & Nvidia]]
+[[Snap Install]]
+[[Linux Команды]]
+[[Linux Права доступа]]
